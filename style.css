@@ -1,0 +1,27 @@
+body, html, h1 {
+    padding: 0px;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+form {
+    text-align: center;
+    border: black 1px solid;
+    margin-top: 140px;
+    width: 300px;
+    display: inline-block;
+    border-radius: 8px;
+}
+div {
+    margin: 10px;
+}
+input[type=text] {
+    padding:  4px 3px;
+}
+input[type=submit] {
+    margin: 20px 0px 40px 0px;
+    padding:  0px 120px;
+    border: rgb(141, 141, 141) 1px solid;
+    border-radius: 4px;
+    background-color: white;
+    font-family: 'Anton', sans-serif;
+}
